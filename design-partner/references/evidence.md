@@ -19,7 +19,7 @@ Say which kind you have. Never report one as another.
 Use `assets/templates/discovery-guide.md`. Build it from the ledger:
 
 - **Assumptions to challenge.** Take the riskiest Hypothesis rows and the dependency assumptions from Pass mode. Write a neutral question for each; don't ask people to confirm your answer.
-- **Ask about last time, not next time.** "Walk me through the last quote you revised" beats "Would you use a pipeline?".
+- **Ask about last time, not next time.** "Walk me through the last time you changed an order" beats "Would you use a dashboard for that?".
 - **Mark what's in this version and what's exploratory,** so nobody presents an idea as a commitment.
 - **Ask how their account and team actually work** (who logs in, as whom, on what device) before showing anything.
 - Show the design late, after the open questions.
@@ -38,7 +38,7 @@ Use `assets/templates/call-synthesis.md`. The shape:
 
 **Rating signal honestly:**
 - **Strong:** unprompted, specific, tied to something they do today.
-- **Conditional:** depends on something else being true ("useful if we start sending digital quotes").
+- **Conditional:** depends on something else being true ("useful if we start taking orders online").
 - **Weak:** hypothetical, hedged, or about other people ("younger staff might want that").
 - **Change requested:** they asked for something different, with a reason.
 - **Confirms current design.**
@@ -50,7 +50,7 @@ Separate **stated need** from **conviction**. "I'd love that, but I don't know t
 
 - Count customers, not percentages: "2 of 2 raised shared logins."
 - A theme raised independently by different customers outranks a strong reaction from one.
-- Keep each customer's context attached. A 140-location chain and a 20-person showroom can say the same words and mean different things.
+- Keep each customer's context attached. A 500-person company and a five-person studio can say the same words and mean different things.
 - One call is one call. Say "based on one call" where it's true.
 
 ## B. Usability tests
