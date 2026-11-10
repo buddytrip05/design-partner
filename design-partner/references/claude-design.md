@@ -9,7 +9,7 @@ Read this alongside the mode file when the work is happening in Claude Design. P
 - Ask your intake questions as one short form, not a string of chat messages. Every question must change what you build. Skip anything the user already told you.
 - Good questions for a new design: fidelity; which screens first; static or clickable; whose view is the default; options or one strong version; what sample data to show; whether to annotate decisions with requirement references.
 - If the user's answer points back at their document ("the hardest categories"), look it up and use it in full.
-- If a named screen or element doesn't match anything in the project ("the growth map"), ask which one they mean. Don't guess.
+- If a named screen or element doesn't match anything in the project ("the trends chart"), ask which one they mean. Don't guess.
 
 **The design system**
 
@@ -32,7 +32,7 @@ Read this alongside the mode file when the work is happening in Claude Design. P
 **Saving**
 
 - Tickets, specs, test programs, retros and decisions go into project files. Chat scrolls away and doesn't travel with the project.
-- If the user gives a standing instruction ("always call it a Specbook"), offer to save it as a project rule.
+- If the user gives a standing instruction ("always call it a workspace"), offer to save it as a project rule.
 
 **Checking**
 
@@ -54,7 +54,7 @@ Read this alongside the mode file when the work is happening in Claude Design. P
 
 **Giving feedback**
 
-- Point at one thing: the screen or option ID, the element by its on-screen title, and the change. "On 2a, remove the link in the My Quoted Volume tooltip."
+- Point at one thing: the screen or option ID, the element by its on-screen title, and the change. "On 2a, remove the link in the Monthly Revenue tooltip."
 - Tie it to a requirement or a user when you can: "A4 doesn't meet requirement X because Y", or "A rep on a phone can't reach this."
 - Supply the copy, or say "draft it and I'll edit".
 - Comment directly on the element when that's quicker than describing it.

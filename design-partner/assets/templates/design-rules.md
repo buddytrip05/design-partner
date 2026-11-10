@@ -4,7 +4,7 @@ Keep this file at the root of your project. The Design Partner skill reads it fi
 
 ## Words
 
-- [The product's nouns, and what never to call them. "Say Specbook, never Job."]
+- [The product's nouns, and what never to call them. "Say workspace, never folder."]
 - [What to call the customer. "Client or customer, never user."]
 - [Casing. "Title Case on buttons; sentence case in helper text."]
 
